@@ -1,5 +1,5 @@
 # Satellites Detection and Segmentating
-Satellite Detection and Segmentation Dataset:  
+Satellite Detection and Segmentation Dataset: https://disk.yandex.ru/d/4pw-gnY4G391bw  
 YOLOv8n test results: https://disk.yandex.ru/d/FnSvRWFg_gv_ww
 
 <p align="center">
@@ -12,12 +12,15 @@ YOLOv8n test results: https://disk.yandex.ru/d/FnSvRWFg_gv_ww
 </p>
 <p align="center">
     Detection training summary
+</p>
+<p align="center">
     <img src="output.png" width="1000"/>
 </p>
-
 <p align="center">
-  Detection testing summary
-  <img src="F1_curve.png width="500"/>
+    Detection testing summary
+</p>
+<p align="center">
+  <img src="F1_curve.png" width="500"/>
   <img src="PR_curve.png" width="500"/>
 </p>
 <p align="center">
