@@ -19,14 +19,4 @@ YOLOv8n test results: https://disk.yandex.ru/d/FnSvRWFg_gv_ww
     <img src="output.png" width="1000"/>
 </p>
 <p align="center">
-    Detection testing summary
-</p>
-<p align="center">
-  <img src="F1_curve.png" width="500"/>
-  <img src="PR_curve.png" width="500"/>
-</p>
-<p align="center">
-  <img src="P_curve.png" width="500"/>
-  <img src="R_curve.png" width="500"/>
-</p>
 
