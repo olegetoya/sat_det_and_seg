@@ -1,7 +1,7 @@
 # Satellites Detection and Segmentating
-Satellite Detection and Segmentation Dataset: https://disk.yandex.ru/d/8-7QG7zMqAiL6g  
+Satellite Detection and Segmentation Dataset: https://disk.yandex.ru/d/8-7QG7zMqAiL6g   
 YOLOv8n detection results: https://disk.yandex.ru/d/we2dU3LCpNCDhw  
-YOLOv8n segmentation results: https://disk.yandex.ru/d/IM--14iQ-h3q6g  
+YOLOv8n segmentation results: https://disk.yandex.ru/d/IM--14iQ-h3q6g    
 <p align="center">
     Examples
 </p>
